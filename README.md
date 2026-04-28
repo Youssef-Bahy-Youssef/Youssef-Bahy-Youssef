@@ -138,7 +138,7 @@ me := Engineer{
 
 | Course | Platform | Year |
 |---|---|---|
-| [Understanding Node.js Core Concepts](https://www.udemy.com/course/understanding-nodejs-core-concepts/) | Udemy | 2025 |
+| [Understanding Node.js Core Concepts](https://www.udemy.com/course/understanding-nodejs-core-concepts/) | Udemy | 2026 |
 | [Microservices with Node.js and React](https://www.udemy.com/course/microservices-with-node-js-and-react/) | Udemy | Dec 2024 |
 | [Node.js, Express, MongoDB & More: The Complete Bootcamp](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) | Udemy | Aug 2024 |
 
@@ -149,40 +149,6 @@ me := Engineer{
 - 📖 **Designing Data-Intensive Applications** — *Martin Kleppmann* (Chapter 7 / in progress)
 - ✅ **Head First Design Patterns** — *Freeman & Robson* (completed)
 - ✅ **Head First Object-Oriented Analysis and Design** (completed)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Youssef-Bahy-Youssef&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Bahy-Youssef&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Bahy-Youssef&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Youssef-Bahy-Youssef&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Youssef-Bahy-Youssef&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 
@@ -200,7 +166,7 @@ me := Engineer{
 
 **🧩 900+ problems solved on competitive programming judges**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Youssef-Bahy-Youssef&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://codeforces.com/profile/Y.Bahy)](https://codeforces.com/profile/Y.Bahy)
 
 *Cairo, Egypt 🇪🇬 · Open to opportunities*
 
