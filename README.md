@@ -150,6 +150,7 @@ me := Engineer{
 - 📖 **Designing Data-Intensive Applications** — *Martin Kleppmann* (Chapter 7 / in progress)
 - ✅ **Head First Design Patterns** — *Freeman & Robson* (completed)
 - ✅ **Head First Object-Oriented Analysis and Design** (completed)
+- ✅ **The Go Programming Language** (completed (selected sections))
 
 ---
 
